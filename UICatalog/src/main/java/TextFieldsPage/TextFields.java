@@ -2,9 +2,7 @@ package TextFieldsPage;
 
 import common.Base;
 
-/**
- * Created by mrahman on 1/15/17.
- */
+
 public class TextFields extends Base{
 
     public void typeOnUiTextField(){

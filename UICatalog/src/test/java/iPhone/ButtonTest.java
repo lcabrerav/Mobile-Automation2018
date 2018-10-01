@@ -10,9 +10,7 @@ import org.testng.annotations.Test;
 
 import static common.Base.ad;
 
-/**
- * Created by mrahman on 9/5/15.
- */
+
 public class ButtonTest extends Base {
 Buttons buttons;
     @BeforeMethod
@@ -29,5 +27,4 @@ Buttons buttons;
         public void imageButtonTest(){
         buttons.setImageButton();
         }
-
 }
