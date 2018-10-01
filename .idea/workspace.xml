@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7980c419-2dc0-426d-b905-e44357be48cb" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UICatalog/src/main/java/ButtonsPage/Buttons.java" beforeDir="false" afterPath="$PROJECT_DIR$/UICatalog/src/main/java/ButtonsPage/Buttons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UICatalog/src/main/java/ControlsPage/Controls.java" beforeDir="false" afterPath="$PROJECT_DIR$/UICatalog/src/main/java/ControlsPage/Controls.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UICatalog/src/main/java/ImgesPage/Images.java" beforeDir="false" afterPath="$PROJECT_DIR$/UICatalog/src/main/java/ImgesPage/Images.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UICatalog/src/main/java/TextFieldsPage/TextFields.java" beforeDir="false" afterPath="$PROJECT_DIR$/UICatalog/src/main/java/TextFieldsPage/TextFields.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UICatalog/src/main/java/TextViewPage/TextView.java" beforeDir="false" afterPath="$PROJECT_DIR$/UICatalog/src/main/java/TextViewPage/TextView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UICatalog/src/test/java/iPhone/ButtonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/UICatalog/src/test/java/iPhone/ButtonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UICatalog/src/test/java/iPhone/PickerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/UICatalog/src/test/java/iPhone/PickerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UICatalog/src/test/resources/cataLogAppTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UICatalog/src/test/resources/cataLogAppTestRunner.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7980c419-2dc0-426d-b905-e44357be48cb" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Generic/target/" />
@@ -134,7 +124,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/AlertsPage/Alerts.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
+            <state relative-caret-position="219">
               <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="e#828#829#0" expanded="true" />
@@ -309,8 +299,8 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="175" />
-    <option name="y" value="275" />
+    <option name="x" value="43" />
+    <option name="y" value="37" />
     <option name="width" value="1280" />
     <option name="height" value="683" />
   </component>
@@ -506,7 +496,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="picker&#9;FILE&#9;file:///Users/luiscabrera/MobileFramework/UICatalog/src/main/java/PickersPage/Picker.java" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538424550546" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538424977765" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -595,9 +585,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_Users_luiscabrera_MobileFramework_UICatalog_src_test_resources_cataLogAppTestRunner_xml - 2018.09.30 at 22h 30m 47s.xml">
-      <configuration name="/Users/luiscabrera/MobileFramework/UICatalog/src/test/resources/cataLogAppTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="_Users_luiscabrera_MobileFramework_UICatalog_src_test_resources_cataLogAppTestRunner_xml - 2018.09.30 at 22h 32m 43s.xml">
       <configuration name="/Users/luiscabrera/MobileFramework/UICatalog/src/test/resources/cataLogAppTestRunner.xml" configurationId="TestNG" />
     </history-entry>
@@ -625,10 +612,12 @@
     <history-entry file="_Users_luiscabrera_MobileFramework_UICatalog_src_test_resources_cataLogAppTestRunner_xml - 2018.10.01 at 12h 37m 41s.xml">
       <configuration name="/Users/luiscabrera/MobileFramework/UICatalog/src/test/resources/cataLogAppTestRunner.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="_Users_luiscabrera_MobileFramework_UICatalog_src_test_resources_cataLogAppTestRunner_xml - 2018.10.01 at 16h 09m 08s.xml">
+      <configuration name="/Users/luiscabrera/MobileFramework/UICatalog/src/test/resources/cataLogAppTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="50" width="1280" height="683" extended-state="0" />
-    <editor active="true" />
+    <frame x="43" y="37" width="1280" height="683" extended-state="1" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24313408" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -639,12 +628,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27749577" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38409474" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49919224" weight="0.34517765" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49919224" visible="true" weight="0.34348562" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50080776" side_tool="true" weight="0.32956383" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3282572" />
@@ -920,7 +909,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/AlertsPage/Alerts.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
+        <state relative-caret-position="219">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="e#828#829#0" expanded="true" />
