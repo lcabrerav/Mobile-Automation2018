@@ -17,7 +17,6 @@ public class TextFields extends Base{
     public void typeOnUiTextFieldLeftView(){
         typeByXpath("//XCUIElementTypeOther/XCUIElementTypeTable/XCUIElementTypeCell[7]", "Secure");
     }
-
     public void writeTextToFields()throws InterruptedException{
         typeOnUiTextField();
         typeOnUiTextFieldRounded();
