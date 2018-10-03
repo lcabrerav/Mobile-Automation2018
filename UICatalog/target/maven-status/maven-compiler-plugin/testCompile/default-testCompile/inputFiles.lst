@@ -1,5 +1,12 @@
-/Users/junedalam/Documents/July2018MobileAutomation/UICatalog/src/test/java/iPhone/AlertsTest.java
-/Users/junedalam/Documents/July2018MobileAutomation/UICatalog/src/test/java/iPhone/ButtonTest.java
-/Users/junedalam/Documents/July2018MobileAutomation/UICatalog/src/test/java/uicatalog/ipad/HomePage.java
-/Users/junedalam/Documents/July2018MobileAutomation/UICatalog/src/test/java/iPhone/PickerTest.java
-/Users/junedalam/Documents/July2018MobileAutomation/UICatalog/src/test/java/iPhone/TextFieldsTest.java
+/Users/luiscabrera/MobileFramework/UICatalog/src/test/java/uicatalog/ipad/HomePage.java
+/Users/luiscabrera/MobileFramework/UICatalog/src/test/java/iPhone/ButtonTest.java
+/Users/luiscabrera/MobileFramework/UICatalog/src/test/java/iPhone/ImageTest.java
+/Users/luiscabrera/MobileFramework/UICatalog/src/test/java/iPhone/SegmentTest.java
+/Users/luiscabrera/MobileFramework/UICatalog/src/test/java/iPhone/TextFieldsTest.java
+/Users/luiscabrera/MobileFramework/UICatalog/src/test/java/iPhone/ToolbarTest.java
+/Users/luiscabrera/MobileFramework/UICatalog/src/test/java/iPhone/PickerTest.java
+/Users/luiscabrera/MobileFramework/UICatalog/src/test/java/iPhone/WebPageTest.java
+/Users/luiscabrera/MobileFramework/UICatalog/src/test/java/iPhone/TextViewTest.java
+/Users/luiscabrera/MobileFramework/UICatalog/src/test/java/iPhone/ControlsTest.java
+/Users/luiscabrera/MobileFramework/UICatalog/src/test/java/iPhone/SearchBarTest.java
+/Users/luiscabrera/MobileFramework/UICatalog/src/test/java/iPhone/AlertsTest.java
