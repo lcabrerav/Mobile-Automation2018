@@ -21,7 +21,7 @@ public class MenuTest extends Base {
     public void topNewsTest(){
         homePageMenu.setTopNews();
     }
-    @Test(priority = 0, enabled = false)
+    @Test(priority = 0, enabled = true)
     public void menuNewsTest() throws InterruptedException {
         homePageMenu.setMenuNews();
     }
@@ -29,9 +29,24 @@ public class MenuTest extends Base {
     public void notificationTest(){
         homePageMenu.setNotifications();
     }
-    @Test(priority = 4, enabled = true)
+    @Test(priority = 4, enabled = false)
     public void signUpTest() throws InterruptedException {
         homePageMenu.setSignUp();
     }
-
+    @Test
+    public void sportsNewsTest() throws InterruptedException{
+        homePageMenu.setSportsLastestNews();
+    }
+    @Test
+    public void photoTest()throws InterruptedException{
+        homePageMenu.setPhotos();
+    }
+    @Test
+    public void photo1Test() throws InterruptedException{
+        homePageMenu.setPhotos1();
+    }
+    @Test
+    public void photo2Test() throws InterruptedException{
+        homePageMenu.setPhoto2();
+    }
 }

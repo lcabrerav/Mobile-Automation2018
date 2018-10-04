@@ -11,7 +11,7 @@
     <test name="Go to Home page" preserve-order="true">
         <classes>
            <class name="HomePageMenu.MenuTest"></class>
-            <!--<class name="HomePageMenu.LatestStoriesTest"></class>-->
+            <class name="HomePageMenu.MenuPage"></class>
         </classes>
     </test>
 </suite>
