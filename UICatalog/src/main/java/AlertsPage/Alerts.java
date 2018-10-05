@@ -1,10 +1,15 @@
 package AlertsPage;
 
 import common.Base;
+import org.openqa.selenium.By;
+import org.testng.Assert;
 
 public class Alerts extends Base{
     public void showActionSheetSimple(){
         clickByXpath("//UIAApplication[1]/UIAWindow[2]/UIATableView[1]/UIATableCell[1]");
+        String Actual = ad.findElement(By.xpath("//XCUIElementTypeStaticText[@name=\"UIActionSheet <title>\"]")).getText();
+        String Expected ="UIActionSheet <title>";
+        Assert.assertEquals(Expected, Actual);
     }
     public void showActionSheetOkCancel(){
         clickByXpath("//UIAApplication[1]/UIAWindow[2]/UIATableView[1]/UIATableCell[3]");

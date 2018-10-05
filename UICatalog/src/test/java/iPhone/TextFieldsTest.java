@@ -8,9 +8,6 @@ import org.testng.annotations.Test;
 
 import static common.Base.ad;
 
-/**
- * Created by mrahman on 1/15/17.
- */
 public class TextFieldsTest extends NavigateUi {
 
     TextFields textFields = new TextFields();
