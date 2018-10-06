@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7980c419-2dc0-426d-b905-e44357be48cb" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7980c419-2dc0-426d-b905-e44357be48cb" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Generic/target/" />
@@ -51,47 +49,84 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="11" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="5" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.25" value="2" />
           <entry key="project.open.time.35" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="20" />
           <entry key="java" value="9693" />
-          <entry key="xml" value="156" />
+          <entry key="xml" value="163" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="197" />
-          <entry key="XML" value="18" />
+          <entry key="JAVA" value="199" />
+          <entry key="XML" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="9693" />
           <entry key="PLAIN_TEXT" value="20" />
-          <entry key="XML" value="156" />
+          <entry key="XML" value="163" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="2" />
-          <entry key="java" value="197" />
-          <entry key="xml" value="18" />
+          <entry key="java" value="199" />
+          <entry key="xml" value="20" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NewYorkPost/src/test/resources/NewYorkPostTestRunner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NewYorkPost/src/test/java/HomePageMenu/NotificationsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NewYorkPost/src/test/java/HomePageMenu/MenuPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UICatalog/src/test/resources/cataLogAppTestRunner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="366">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -136,7 +171,6 @@
         <option value="$PROJECT_DIR$/NewYorkPost/src/main/java/Menu/MenuPage.java" />
         <option value="$PROJECT_DIR$/NewYorkPost/src/test/java/HomePageMenu/LatestStoriesTest.java" />
         <option value="$PROJECT_DIR$/NewYorkPost/src/main/java/NextPage/NextPageTitle.java" />
-        <option value="$PROJECT_DIR$/NewYorkPost/src/test/resources/NewYorkPostTestRunner.xml" />
         <option value="$PROJECT_DIR$/NewYorkPost/src/test/java/HomePageMenu/MenuPage.java" />
         <option value="$PROJECT_DIR$/NewYorkPost/src/test/java/HomePageMenu/MenuTest.java" />
         <option value="$PROJECT_DIR$/UICatalog/src/test/java/iPhone/TextFieldsTest.java" />
@@ -144,9 +178,10 @@
         <option value="$PROJECT_DIR$/UICatalog/src/test/java/iPhone/AlertsTest.java" />
         <option value="$PROJECT_DIR$/UICatalog/src/main/java/PickersPage/Picker.java" />
         <option value="$PROJECT_DIR$/UICatalog/src/test/java/iPhone/PickerTest.java" />
-        <option value="$PROJECT_DIR$/UICatalog/src/test/resources/cataLogAppTestRunner.xml" />
         <option value="$PROJECT_DIR$/NewYorkPost/src/main/java/HomePage/HomePageMenu.java" />
         <option value="$PROJECT_DIR$/NewYorkPost/src/test/java/HomePageMenu/NotificationsTest.java" />
+        <option value="$PROJECT_DIR$/NewYorkPost/src/test/resources/NewYorkPostTestRunner.xml" />
+        <option value="$PROJECT_DIR$/UICatalog/src/test/resources/cataLogAppTestRunner.xml" />
       </list>
     </option>
   </component>
@@ -219,8 +254,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -228,16 +261,44 @@
               <item name="MobileFramework" type="b2602c69:ProjectViewProjectNode" />
               <item name="MobileFramework" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MobileFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MobileFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="NewYorkPost" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MobileFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MobileFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="NewYorkPost" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MobileFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MobileFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="NewYorkPost" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MobileFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MobileFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="NewYorkPost" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="picker&#9;FILE&#9;file:///Users/luiscabrera/MobileFramework/UICatalog/src/main/java/PickersPage/Picker.java" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538777317221" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538789200378" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -267,7 +328,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG./Users/luiscabrera/MobileFramework/UICatalog/src/test/resources/cataLogAppTestRunner.xml">
+  <component name="RunManager" selected="TestNG./Users/luiscabrera/MobileFramework/NewYorkPost/src/test/resources/NewYorkPostTestRunner.xml">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -351,8 +412,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG./Users/luiscabrera/MobileFramework/UICatalog/src/test/resources/cataLogAppTestRunner.xml" />
         <item itemvalue="TestNG./Users/luiscabrera/MobileFramework/NewYorkPost/src/test/resources/NewYorkPostTestRunner.xml" />
+        <item itemvalue="TestNG./Users/luiscabrera/MobileFramework/UICatalog/src/test/resources/cataLogAppTestRunner.xml" />
         <item itemvalue="TestNG.MenuPage.pageSixTest" />
       </list>
     </recent_temporary>
@@ -579,13 +640,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NewYorkPost/src/test/resources/NewYorkPostTestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/UICatalog/src/main/java/ButtonsPage/Buttons.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -621,13 +675,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NewYorkPost/src/test/java/HomePageMenu/NotificationsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/common/Base.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="446">
@@ -636,20 +683,6 @@
             <element signature="e#7994#7995#0" expanded="true" />
             <element signature="e#8051#8052#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NewYorkPost/src/test/java/HomePageMenu/MenuPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UICatalog/src/test/resources/cataLogAppTestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="53" selection-start-line="12" selection-start-column="11" selection-end-line="13" selection-end-column="53" />
         </state>
       </provider>
     </entry>
@@ -664,9 +697,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-          <folding>
-            <element signature="e#367#379#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -695,9 +725,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -712,9 +739,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-25">
           <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -736,6 +760,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewYorkPost/src/test/java/HomePageMenu/NotificationsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewYorkPost/src/test/resources/NewYorkPostTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UICatalog/src/test/resources/cataLogAppTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewYorkPost/src/test/java/HomePageMenu/MenuPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
         </state>
       </provider>
     </entry>
