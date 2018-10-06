@@ -12,6 +12,7 @@
         <classes>
            <class name="HomePageMenu.MenuTest"></class>
             <class name="HomePageMenu.MenuPage"></class>
+            <class name="HomePageMenu.MenuTest"></class>
         </classes>
     </test>
 </suite>
