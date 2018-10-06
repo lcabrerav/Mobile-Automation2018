@@ -19,17 +19,11 @@ public class PickerTest extends Base {
     }
     @Test
     public void testUIPicker(){
-        UiCatalog uiCatalog = PageFactory.initElements(ad, UiCatalog.class);
-        uiCatalog.getPickers();
-        Picker picker = PageFactory.initElements(ad, Picker.class);
-        picker().getUIPicker();//.selectPickerTwoWheels("Chris Armstrong","3");
+        picker().getUIPicker();
         scrollKeys(ad, pickerName,"//UIAPicker[1]");
     }
     @Test
-    public void testDatePicker(){
-        UiCatalog uiCatalog = PageFactory.initElements(ad,UiCatalog.class);
-        uiCatalog.getPickers();
-        Picker picker = PageFactory.initElements(ad, Picker.class);
+    public void testDatePicker() throws InterruptedException {
         picker().getUIDatePicker();
         scrollKeys(ad, pickerDate,"//UIAPicker[2]");
     }

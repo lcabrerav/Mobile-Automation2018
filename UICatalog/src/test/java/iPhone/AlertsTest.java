@@ -20,36 +20,36 @@ public class AlertsTest extends Base {
        alerts().showActionSheetSimple();
        sleep(2);
    }
-//    @Test
-//    public void testActionSheetOkCancel() throws InterruptedException {
-//        alerts().showActionSheetOkCancel();
-//        sleep(2);
-//    }
-//    @Test
-//    public void testActionSheetCustom() throws InterruptedException {
-//        alerts().showActionSheetCustom();
-//        sleep(2);
-//    }
-//    @Test
-//    public void testAlertSimple() throws InterruptedException {
-//        alerts().showAlertSimple();
-//        sleep(2);
-//    }
-//    @Test
-//    public void testAlertOkCancel() throws InterruptedException {
-//        alerts().showAlertOkCancel();
-//        sleep(2);
-//    }
-//    @Test
-//    public void testAlertCustom() throws InterruptedException {
-//        alerts().showAlertCustom();
-//        sleep(2);
-//    }
-//    @Test
-//    public void testSecureInput() throws InterruptedException {
-//        alerts().showSecureTextInput();
-//        sleep(2);
-//    }
-//
-//
+    @Test
+    public void testActionSheetOkCancel() throws InterruptedException {
+        alerts().showActionSheetOkCancel();
+        sleep(2);
+    }
+    @Test
+    public void testActionSheetCustom() throws InterruptedException {
+        alerts().showActionSheetCustom();
+        sleep(2);
+    }
+    @Test
+    public void testAlertSimple() throws InterruptedException {
+        alerts().showAlertSimple();
+        sleep(2);
+    }
+    @Test
+    public void testAlertOkCancel() throws InterruptedException {
+        alerts().showAlertOkCancel();
+        sleep(2);
+    }
+    @Test
+    public void testAlertCustom() throws InterruptedException {
+        alerts().showAlertCustom();
+        sleep(2);
+    }
+    @Test
+    public void testSecureInput() throws InterruptedException {
+        alerts().showSecureTextInput();
+        sleep(2);
+    }
+
+
 }

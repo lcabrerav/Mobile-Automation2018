@@ -33,4 +33,12 @@ public class NotificationsTest extends Base {
     public void pageSixNotificationsTest() throws InterruptedException{
         homePageMenu.setPageSixNotifications();
     }
+    @Test
+    public void privacyPolicyTest() throws InterruptedException{
+        homePageMenu.privacyPolicy();
+    }
+    @Test
+    public void termsAndConditionsTest() throws InterruptedException{
+        homePageMenu.termsAndConditions();
+    }
 }
